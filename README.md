@@ -3,6 +3,8 @@
 
 ## ye_olde_punks (4 skin tones)
 
+![](i/ye_olde_punks@2x.png)
+
 Names | Color  | HEX, RGB, HSL, HSV
 ------|--------|---------
 dark • 1 | ![](i/ye_olde_punks-dark.png) | #713f1d / rgb(113  63  29) - hsl( 24°  59%  28%) - hsv( 24°  74%  44%)
@@ -13,21 +15,25 @@ albino • 4 | ![](i/ye_olde_punks-albino.png) | #ead9d9 / rgb(234 217 217) - hs
 
 ## dr_ellis_monk (10 skin tones)
 
+![](i/dr_ellis_monk@2x.png)
+
 Names | Color  | HEX, RGB, HSL, HSV
 ------|--------|---------
-01 • MST01 • Monk 01 | ![](i/dr_ellis_monk-01.png) | #f6ede4 / rgb(246 237 228) - hsl( 30°  50%  93%) - hsv( 30°   7%  96%)
-02 • MST02 • Monk 02 | ![](i/dr_ellis_monk-02.png) | #f3e7db / rgb(243 231 219) - hsl( 30°  50%  91%) - hsv( 30°  10%  95%)
-03 • MST03 • Monk 03 | ![](i/dr_ellis_monk-03.png) | #f7ead0 / rgb(247 234 208) - hsl( 40°  71%  89%) - hsv( 40°  16%  97%)
-04 • MST04 • Monk 04 | ![](i/dr_ellis_monk-04.png) | #eadaba / rgb(234 218 186) - hsl( 40°  53%  82%) - hsv( 40°  21%  92%)
-05 • MST05 • Monk 05 | ![](i/dr_ellis_monk-05.png) | #d7bd96 / rgb(215 189 150) - hsl( 36°  45%  72%) - hsv( 36°  30%  84%)
-06 • MST06 • Monk 06 | ![](i/dr_ellis_monk-06.png) | #a07e56 / rgb(160 126  86) - hsl( 32°  30%  48%) - hsv( 32°  46%  63%)
-07 • MST07 • Monk 07 | ![](i/dr_ellis_monk-07.png) | #825c43 / rgb(130  92  67) - hsl( 24°  32%  39%) - hsv( 24°  48%  51%)
-08 • MST08 • Monk 08 | ![](i/dr_ellis_monk-08.png) | #604134 / rgb( 96  65  52) - hsl( 18°  30%  29%) - hsv( 18°  46%  38%)
-09 • MST09 • Monk 09 | ![](i/dr_ellis_monk-09.png) | #3a312a / rgb( 58  49  42) - hsl( 26°  16%  20%) - hsv( 26°  28%  23%)
-10 • MST10 • Monk 10 | ![](i/dr_ellis_monk-10.png) | #292420 / rgb( 41  36  32) - hsl( 27°  12%  14%) - hsv( 27°  22%  16%)
+01 • MST 01 • monk 01 | ![](i/dr_ellis_monk-01.png) | #f6ede4 / rgb(246 237 228) - hsl( 30°  50%  93%) - hsv( 30°   7%  96%)
+02 • MST 02 • monk 02 | ![](i/dr_ellis_monk-02.png) | #f3e7db / rgb(243 231 219) - hsl( 30°  50%  91%) - hsv( 30°  10%  95%)
+03 • MST 03 • monk 03 | ![](i/dr_ellis_monk-03.png) | #f7ead0 / rgb(247 234 208) - hsl( 40°  71%  89%) - hsv( 40°  16%  97%)
+04 • MST 04 • monk 04 | ![](i/dr_ellis_monk-04.png) | #eadaba / rgb(234 218 186) - hsl( 40°  53%  82%) - hsv( 40°  21%  92%)
+05 • MST 05 • monk 05 | ![](i/dr_ellis_monk-05.png) | #d7bd96 / rgb(215 189 150) - hsl( 36°  45%  72%) - hsv( 36°  30%  84%)
+06 • MST 06 • monk 06 | ![](i/dr_ellis_monk-06.png) | #a07e56 / rgb(160 126  86) - hsl( 32°  30%  48%) - hsv( 32°  46%  63%)
+07 • MST 07 • monk 07 | ![](i/dr_ellis_monk-07.png) | #825c43 / rgb(130  92  67) - hsl( 24°  32%  39%) - hsv( 24°  48%  51%)
+08 • MST 08 • monk 08 | ![](i/dr_ellis_monk-08.png) | #604134 / rgb( 96  65  52) - hsl( 18°  30%  29%) - hsv( 18°  46%  38%)
+09 • MST 09 • monk 09 | ![](i/dr_ellis_monk-09.png) | #3a312a / rgb( 58  49  42) - hsl( 26°  16%  20%) - hsv( 26°  28%  23%)
+10 • MST 10 • monk 10 | ![](i/dr_ellis_monk-10.png) | #292420 / rgb( 41  36  32) - hsl( 27°  12%  14%) - hsv( 27°  22%  16%)
 
 
 ## punks_not_dead (30 skin tones)
+
+![](i/punks_not_dead@2x.png)
 
 Names | Color  | HEX, RGB, HSL, HSV
 ------|--------|---------
@@ -61,6 +67,7 @@ yellow | ![](i/punks_not_dead-yellow.png) | #f8de08 / rgb(248 222   8) - hsl( 54
 gold 1 • gold | ![](i/punks_not_dead-gold_1.png) | #ffd700 / rgb(255 215   0) - hsl( 51° 100%  50%) - hsv( 51° 100% 100%)
 gold 2 • goldenrod | ![](i/punks_not_dead-gold_2.png) | #daa520 / rgb(218 165  32) - hsl( 43°  74%  49%) - hsv( 43°  85%  85%)
 gold 3 • darkgoldenrod | ![](i/punks_not_dead-gold_3.png) | #b8860b / rgb(184 134  11) - hsl( 43°  89%  38%) - hsv( 43°  94%  72%)
+
 
 
 
