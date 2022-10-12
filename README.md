@@ -1,6 +1,11 @@
-# World Cup
+# Skin Tone (Colors & Research)  - Beyond (Four Scale) Dark, Medium / Mid, Light, Albino
 
-Free open public domain football data (football.db) addon for market quotes (odds, etc)
-for the World Cup (Brazil 2014), World Cup Quali, Confederations Cup (Brazil 2013) etc.
+
+
+
+
+
+
+
 
 
