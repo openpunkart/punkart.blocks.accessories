@@ -72,6 +72,9 @@ palettes = [
   'punks_not_dead',
 ]
 
+palettes = [
+  'color_me_human'
+]
 
 buf = String.new('')
 
@@ -106,15 +109,16 @@ palettes.each do |palette|
     hex        = rec['color']
     names       = rec['names'].split( '|' )
 
+    color = Color.parse( hex )
+
     ## normalize spaces in more names
     names = names.map {|str| str.strip.gsub(/[ ]{2,}/, ' ' )}
     slug  = slugify( names[0] )
 
     id  = "#{palette}-#{slug}"
-    bar = Image.new( 128, 64, hex )
+    bar = Image.new( 128, 64, color )
     bar.save( "./tmp/#{id}.png" )
 
-    color = Color.parse( hex )
 
     buf << names.join( ' • ' )
     buf << " | "
