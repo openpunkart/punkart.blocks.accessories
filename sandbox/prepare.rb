@@ -24,6 +24,9 @@ palettes.each do |palette|
 
   buf << "## #{palette} (#{recs.size} skin tones)\n\n"
 
+  buf << "Names | Color\n"
+  buf << "------|--------\n"
+
   recs.each do |rec|
     hex        = rec['color']
     name       = rec['name']
@@ -39,7 +42,9 @@ palettes.each do |palette|
 
     color = Color.parse( hex )
 
-    buf << "![](i/#{id}.png) #{Color.format( color )} -- #{names.join( ' • ' )} <br>\n"
+    buf << names.join( ' • ' )
+    buf << " | "
+    buf << "![](i/#{id}.png) #{Color.format( color )}\n"
   end
   buf << "\n\n"
 end
