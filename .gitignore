@@ -1,0 +1,7 @@
+
+####
+#  exclude all tmp & tmp2 and o directory (in all levels)
+
+tmp/
+tmp2/
+o/
