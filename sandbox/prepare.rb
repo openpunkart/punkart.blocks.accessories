@@ -39,7 +39,7 @@ palettes.each do |palette|
 
     color = Color.parse( hex )
 
-    buf << "- ![](i/#{id}.png}) #{Color.format( color )} -- #{names.join( ' • ' )}\n"
+    buf << "![](i/#{id}.png) #{Color.format( color )} -- #{names.join( ' • ' )} <br>\n"
   end
   buf << "\n\n"
 end
