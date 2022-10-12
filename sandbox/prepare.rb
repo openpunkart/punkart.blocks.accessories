@@ -5,10 +5,15 @@
 
 require 'pixelart'
 
+def slugify( str )
+  str.downcase.strip.gsub( /[ ]/, '_' )
+end
+
 
 palettes = [
   'ye_olde_punks',
-  'dr_ellis_monk'
+  'dr_ellis_monk',
+  'punks_not_dead',
 ]
 
 
@@ -29,14 +34,13 @@ palettes.each do |palette|
 
   recs.each do |rec|
     hex        = rec['color']
-    name       = rec['name']
-    more_names =  (rec['more_names'] || '').split( '|' )
+    names       = rec['names'].split( '|' )
 
     ## normalize spaces in more names
-    names = [name] + more_names
     names = names.map {|str| str.strip.gsub(/[ ]{2,}/, ' ' )}
+    slug  = slugify( names[0] )
 
-    id  = "#{palette}-#{name}"
+    id  = "#{palette}-#{slug}"
     bar = Image.new( 128, 64, hex )
     bar.save( "./tmp/#{id}.png" )
 
@@ -53,7 +57,7 @@ palettes.each do |palette|
 end
 
 
-puts buf
+# puts buf
 
 write_text( "./tmp/page.md",  buf )
 
