@@ -24,8 +24,8 @@ palettes.each do |palette|
 
   buf << "## #{palette} (#{recs.size} skin tones)\n\n"
 
-  buf << "Names | Color\n"
-  buf << "------|--------\n"
+  buf << "Names | Color  | HEX, RGB, HSL, HSV\n"
+  buf << "------|--------|---------\n"
 
   recs.each do |rec|
     hex        = rec['color']
@@ -37,14 +37,17 @@ palettes.each do |palette|
     names = names.map {|str| str.strip.gsub(/[ ]{2,}/, ' ' )}
 
     id  = "#{palette}-#{name}"
-    bar = Image.new( 256, 32, hex )
+    bar = Image.new( 128, 64, hex )
     bar.save( "./tmp/#{id}.png" )
 
     color = Color.parse( hex )
 
     buf << names.join( ' • ' )
     buf << " | "
-    buf << "![](i/#{id}.png) #{Color.format( color )}\n"
+    buf << "![](i/#{id}.png)"
+    buf << " | "
+    buf << Color.format( color )
+    buf << "\n"
   end
   buf << "\n\n"
 end
