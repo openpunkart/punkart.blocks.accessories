@@ -10,7 +10,7 @@
 
 
 
-## Headwear (24×24) - Hats, Baseball & Fast Food Caps, & More
+## Headwear (24×24) - Hats, Caps, & More
 
 
   Bandana (m/f)
@@ -59,7 +59,7 @@
    ![](more/m/headband-pride.png),
   Jester Hat (m/f) ![](more/m/jesterhat.png) ![](more/f/jesterhat.png),
   Santa Hat (m/f) ![](more/m/santahat.png) ![](more/f/santahat.png),
-  Sombrero¹ (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
+  Sombrero (m/f) ![](more/m/sombrero.png) ![](more/f/sombrero.png),
   Sun Hat (m/f) ![](more/m/sunhat.png) ![](more/f/sunhat.png),
   Superhero Tiara (f) ![](more/f/superherotiara.png)
   Viking Helmet (m/f) ![](more/m/vikinghelmet.png) ![](more/f/vikinghelmet.png),
@@ -98,7 +98,8 @@ Jews  - Hats (m)  ![](jews/m/hat1.png)
 
 _(Baseball) caps & more in fast food chain styles & colors_
 
-- Caps -
+
+Caps -
   Baskin-Robbins (m/f) ![](fastfood/m/cap-br.png) ![](fastfood/m/cap-br_flipped.png)
                        ![](fastfood/f/cap-br.png) ![](fastfood/f/cap-br_flipped.png),
   Burger King (m/f) ![](fastfood/m/cap-brk.png) ![](fastfood/m/cap-brk_flipped.png)
@@ -135,14 +136,19 @@ _(Baseball) caps & more in fast food chain styles & colors_
                ![](fastfood/f/cap-sub.png) ![](fastfood/f/cap-sub_flipped.png),
   Wendy's (m/f) ![](fastfood/m/cap-w.png) ![](fastfood/m/cap-w_flipped.png)
                 ![](fastfood/f/cap-w.png) ![](fastfood/f/cap-w_flipped.png)
-- Cowboy Hats -
+                
+Cowboy Hats -
   McDonald's (m) ![](fastfood/m/cowboy-m-red.png)
-- Safari Hats -
+
+Safari Hats -
   Kentucky Fried Chicken (m) ![](fastfood/m/safari-kentucky.png)
-- Bucket Hats -
+
+Bucket Hats -
   McDonald's (m) ![](fastfood/m/bucket-m-red.png)
-- Crowns -
+
+Crowns -
   Burger King (m) ![](fastfood/m/crown-brk.png)
+
 
 
 
@@ -204,7 +210,7 @@ Bororo (m/f)  ![](intl/m/bororo.png) ![](intl/f/bororo.png),
 Chichak Helmet (m/f)  ![](intl/m/chichakhelmet.png) ![](intl/f/chichakhelmet.png),
 Chinese Landlords Hat (m/f)  ![](intl/m/chineselandlordshat.png) ![](intl/f/chineselandlordshat.png),
 Chullo (m/f)  ![](intl/m/chullo.png) ![](intl/f/chullo.png),
-Fedora¹ (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
+Fedora (m/f)  ![](intl/m/fedora.png) ![](intl/f/fedora.png),
 Fez (m/f)  ![](intl/m/fez.png) ![](intl/f/fez.png),
 Fisherman Cap (m/f)  ![](intl/m/fishermancap.png) ![](intl/f/fishermancap.png),
 Flamenco Hat (m/f)  ![](intl/m/flamencohat.png) ![](intl/f/flamencohat.png),
@@ -232,7 +238,6 @@ Ushanka (m/f)  ![](intl/m/ushanka.png) ![](intl/f/ushanka.png),
 Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
 
 
-¹: Alternatives to the basic series
 
 
 
@@ -392,9 +397,6 @@ Eyes (Makeup) -
   Red Lipstick (f) ![](more/f/redlipstick.png)
 
 
-<!--
-¹: Alternative to the int'l headwear series
--->
 
 
 
