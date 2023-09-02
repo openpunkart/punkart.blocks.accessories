@@ -268,9 +268,9 @@ Viking Hat (m/f)  ![](intl/m/vikinghat.png) ![](intl/f/vikinghat.png)
   VR (m/f)
   ![](basic/m/vr.png) ![](basic/f/vr.png),
   Welding Goggles (m/f)
-  ![](basic/m/weldinggoggles.png) ![](basic/f/weldinggoggles.png)
+  ![](basic/m/weldinggoggles.png) ![](basic/f/weldinggoggles.png),
 
-
+  
   Heart Shades (m/f)  ![](more/m/heartshades.png) ![](more/f/heartshades.png),
   Laser Eyes (m/f)      ![](more/m/lasereyes.png) ![](more/f/lasereyes.png),
   Laser Eyes Gold (m/f) ![](more/m/lasereyesgold.png) ![](more/f/lasereyesgold.png),
@@ -311,9 +311,10 @@ Eyes (Makeup) -
 
 
 
+
 ## More
 
-- Face / Blemishes -
+Face / Blemishes -
   Mole (m/f)
    ![](basic/m/mole.png) ![](basic/f/mole.png),
   Rosy Cheeks (m/f)
@@ -323,7 +324,7 @@ Eyes (Makeup) -
 
 
 
-- Nose -
+Nose -
   Clown Nose (m/f)
    ![](basic/m/clownnose.png) ![](basic/f/clownnose.png),
   Clown Nose Blue (m/f) ![](more/m/clownnose_blue.png) ![](more/f/clownnose_blue.png),
@@ -332,19 +333,19 @@ Eyes (Makeup) -
    ![](basic/m/piercing.png) ![](basic/f/piercing.png)
 
 
-- Mouth (Teeth) -
+Mouth (Teeth) -
   Buck Teeth (m)
    ![](basic/m/buckteeth.png)
 
 
-- Mouth (Emotion) -
+Mouth (Emotion) -
   Frown (m)
    ![](basic/m/frown.png),
   Smile (m)
    ![](basic/m/smile.png)
 
 
-- Mouth (Makeup) -
+Mouth (Makeup) -
   Black Lipstick (f)
    ![](basic/f/blacklipstick.png),
   Hot Lipstick (f)
@@ -358,7 +359,7 @@ Eyes (Makeup) -
 
 
 
-- Mouth Prop -
+Mouth Prop -
   Cigarette (m/f)
    ![](basic/m/cigarette.png) ![](basic/f/cigarette.png),
   Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
@@ -372,7 +373,7 @@ Eyes (Makeup) -
 
 
 
-- (Covid) Masks -
+(Covid) Masks -
   Medical Mask (m/f)
    ![](basic/m/medicalmask.png) ![](basic/f/medicalmask.png),
 
@@ -406,8 +407,7 @@ Eyes (Makeup) -
 
 Ears -
   (Golden) Earring (m/f)
-   ![](basic/m/earring.png) ![](basic/f/earring.png)
-
+   ![](basic/m/earring.png) ![](basic/f/earring.png),
   Silver Earring (m/f) ![](more/m/silverearring.png) ![](more/f/silverearring.png)
 
 
@@ -417,8 +417,7 @@ Neck Accessory -
   Gold Chain (m/f)
    ![](basic/m/goldchain.png) ![](basic/f/goldchain.png),
   Silver Chain (m/f)
-   ![](basic/m/silverchain.png) ![](basic/f/silverchain.png)
-
+   ![](basic/m/silverchain.png) ![](basic/f/silverchain.png),
   Gold Diamond Necklace (m/f) ![](more/m/golddiamondnecklace.png)  ![](more/f/golddiamondnecklace.png)
 
 
@@ -427,8 +426,7 @@ Neck Accessory -
 ## Clothes 
 
 Hoodie (m/f)
-  ![](basic/m/hoodie.png) ![](basic/f/hoodie.png)
-
+  ![](basic/m/hoodie.png) ![](basic/f/hoodie.png),
   (Onesie) Bear Hood (m/f) ![](more/m/bearhood.png) ![](more/f/bearhood.png),
   (Onesie) Frog Hood (m/f) ![](more/m/froghood.png) ![](more/f/froghood.png)
 
