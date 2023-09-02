@@ -351,25 +351,26 @@ Mouth (Makeup) -
   Hot Lipstick (f)
    ![](basic/f/hotlipstick.png),
   Purple Lipstick (f)
-   ![](basic/f/purplelipstick.png)
+   ![](basic/f/purplelipstick.png),
+  Pink Lipstick (f) ![](more/f/pinklipstick.png),
+  Red Lipstick (f) ![](more/f/redlipstick.png),
   Party Pink Lipstick (f) ![](world-women/lipstick-party_pink.png),
   Passion Red Lipstick (f) ![](world-women/lipstick-passion_red.png),
-  Burgundy Lipstick (f) ![](world-women/lipstick-burgundy.png),
-
+  Burgundy Lipstick (f) ![](world-women/lipstick-burgundy.png)
 
 
 
 Mouth Prop -
   Cigarette (m/f)
    ![](basic/m/cigarette.png) ![](basic/f/cigarette.png),
-  Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png)
+  Cigar (m/f) ![](more/m/cigar.png) ![](more/f/cigar.png),
   Pipe (m/f)
    ![](basic/m/pipe.png) ![](basic/f/pipe.png),
   Vape (m/f)
-   ![](basic/m/vape.png) ![](basic/f/vape.png)
+   ![](basic/m/vape.png) ![](basic/f/vape.png),
   Gas Mask (m/f)
    ![](basic/m/gasmask.png) ![](basic/f/gasmask.png),
-  Bubble Gum (m/f) ![](more/m/bubblegum.png) ![](more/f/bubblegum.png),
+  Bubble Gum (m/f) ![](more/m/bubblegum.png) ![](more/f/bubblegum.png)
 
 
 
@@ -393,9 +394,8 @@ Mouth Prop -
   KN-95 (m/f)  ![](mask/m/kn-95.png) ![](mask/f/kn-95.png),
   KN-95 Yellow (m/f) ![](mask/m/kn-95_yellow.png) ![](mask/f/kn-95_yellow.png),
   KN-95 Black (m/f)  ![](mask/m/kn-95_black.png) ![](mask/f/kn-95_black.png)
-- Mouth (Makeup) -
-  Pink Lipstick (f) ![](more/f/pinklipstick.png),
-  Red Lipstick (f) ![](more/f/redlipstick.png)
+
+
 
 
 
